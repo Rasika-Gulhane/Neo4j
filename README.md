@@ -10,9 +10,3 @@ Neo4j because it is one of databases that works with NoSQL data for graphical re
 
 Our project shows Telecom database and it is all about connection and graphs in various aspects of its operations., which makes graph databases a perfect fit to model, store, and query any type of telecommunications data. 
 
-
-
-![image](https://github.com/Rasika-Gulhane/Neo4j/assets/67581952/709da85c-05c0-4ead-9b77-06754b362a39)
-
-
-![image](https://github.com/Rasika-Gulhane/Neo4j/assets/67581952/10d2113c-5b01-4cea-87cd-34c7262e84a7)
