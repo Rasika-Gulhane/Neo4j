@@ -9,6 +9,8 @@ Attributes: name of caller, name of receiver, Genderof both caller and receiver 
 Neo4j because it is one of databases that works with NoSQL data for graphical representation. It shows the graph that contains nodes and relationships between these nodes, also nodes and relationships may have additional attributes called properties that describe them in more detail. 
 
 Our project shows Telecom database and it is all about connection and graphs in various aspects of its operations., which makes graph databases a perfect fit to model, store, and query any type of telecommunications data. 
+
+
 ![image](https://github.com/Rasika-Gulhane/Neo4j/assets/67581952/709da85c-05c0-4ead-9b77-06754b362a39)
 
 
